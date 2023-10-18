@@ -172,4 +172,7 @@ echo "Hello World !";
 //  else 
 //     echo 'false';
 
+// ---------  La boucle WHILE --------- //
+
+
 ?>
